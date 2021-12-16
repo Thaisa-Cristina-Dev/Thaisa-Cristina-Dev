@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Thaisa Cristina👋
 
-## Desenvolvedora Python! ✔️
+## Estudante de Engenharia de Software! ✔️
 
 <div align="center">
   <a href="https://github.com/Thaisa-Cristina-Dev">

@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Thaisa Cristina👋
 
-## Estudante de Engenharia de Software! ✔️
+## Desenvolvedora Jr ✔️
 
 <div align="center">
   <a href="https://github.com/Thaisa-Cristina-Dev">

@@ -1,7 +1,5 @@
 ## Olá! Meu nome é Thaisa Cristina👋
 
-## Desenvolvedora Jr ✔️
-
 <div align="center">
   <a href="https://github.com/Thaisa-Cristina-Dev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thaisa-Cristina-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

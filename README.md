@@ -1,6 +1,6 @@
 ## Olá, Sou a Thaisa Cristina!
 
-- Estudante em Engenharia de Software
+- Estudante de Engenharia de Software
 - Moro em: SP | Brasil
 - Tenho experiência com: Python e Java, Manipulação de Dados com SQL Server, MySQL e Postegress. 
 - Atualmente estudando Nuvem Salesforce com os componentes: SOQL, SOSL, Apex, Trigger.

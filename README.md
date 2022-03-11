@@ -4,8 +4,8 @@
 - Moro em: SP | Brasil
 - Tenho experiência com: Python e Java, Manipulação de Dados com SQL Server, MySQL e Postegress. 
 - Atualmente estudando Nuvem Salesforce com os componentes: SOQL, SOSL, Apex, Trigger.
+- 
 
-### Focada na trilha Back-end
 <div align="center">
   <a href="https://github.com/Thaisa-Cristina-Dev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thaisa-Cristina-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

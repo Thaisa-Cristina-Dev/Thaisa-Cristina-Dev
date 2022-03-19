@@ -13,7 +13,7 @@
 </div>
 
 
-### Databases:
+### Banco de Dados:
 <div> <div style="display: inline_block"><br>
 <img align="center" alt="MicrosoftSQLServer" height="45" width="150" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 <img align="center" alt="MySQL" height="45" width="150" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">

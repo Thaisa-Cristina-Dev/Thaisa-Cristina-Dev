@@ -5,7 +5,7 @@
 ### Estudando:
 <div> 
 <div style="display: inline_block"><br>
-<img align="center" alt="Python" height="45" width="140" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img align="center" alt="Python" height="45" width="150" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align="center" alt="JavaScript" height="45" width="150" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img align="center" alt="CSS3" height="45" width="150" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="HTML5" height="45" width="150" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">

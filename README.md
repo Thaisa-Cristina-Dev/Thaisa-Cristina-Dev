@@ -1,8 +1,5 @@
 ## Olá, meu nome é Thaisa Cristina!
 
-### Cursando Engenharia de Software.
-
-### Estudando:
 <div> 
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="45" width="150" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
